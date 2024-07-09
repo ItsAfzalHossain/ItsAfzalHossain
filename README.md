@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Afza 
-
-
+## Hi there 👋 It has just created. Very soon will be decorated. So, please don't judge me now. 
+<!---
 **ItsAfzalHossain/ItsAfzalHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+------>
